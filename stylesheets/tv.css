@@ -33,14 +33,6 @@ body {
 	position: fixed center;
 	margin:auto;
 }
-iframe{
-	width:90%;
-	height:25%;
-
-	margin-top: 30px;
-	margin-left:10%;
-	margin-right:10%;
-}
 #titel1{
 	margin-left:5%;
 	font-size:30;
@@ -63,27 +55,17 @@ iframe{
 	position:relative;
 	z-index: 100;
 }
-#intro{
+.series{
 	width:125%;
 	margin-left:5%;
 	margin-bottom: 5%;
 	margin-top:5%;
 	font-family: Segoe UI,Arial,sans-serif;
 }
-#intro p{
+p{
 
-	font-size:20;
-}
-#trailer{
-		width:125%;
-	margin-left:5%;
-	margin-bottom: 5%;
-	margin-top:5%;
+	font-size:19;
 	font-family: Segoe UI,Arial,sans-serif;
-}
-#trailer p{
-
-	font-size:20;
 }
 a:link, a:visited { 
     color: blue;
@@ -96,30 +78,4 @@ a:link, a:visited {
 	position:absolute center;
 	margin-top: 10px;
 	font-family: Segoe UI,Arial,sans-serif;
-}
-#side{
-	margin-top:70px;
-	margin-left:10%;
-	width:130%;
-}
-#sith{
-	margin-left: 10%;
-	position:relative;
-	width: 25%;
-	height: auto;
-}
-#jedi{
-	position: relative;
-	width: 27%;
-	height: auto;
-	margin-right:15%;
-}
-
-#chs{
-	margin-left:43%;
-	font-size: 50;
-	margin-top: 30px;
-
-	font-family: Segoe UI,Arial,sans-serif;
-
 }
