@@ -1,0 +1,35 @@
+
+
+
+#side{
+	margin-top:70px;
+	margin-left:10%;
+	width:130%;
+}
+#sith{
+	margin-left: 10%;
+	position:relative;
+	width: 25%;
+	height: auto;
+}
+#jedi{
+	position: relative;
+	width: 27%;
+	height: auto;
+	margin-right:15%;
+}
+
+#chs{
+	margin-left:43%;
+	font-size: 50;
+	margin-top: 30px;
+
+	font-family: Segoe UI,Arial,sans-serif;
+
+}
+#titel1{
+	margin-left:5%;
+	font-size:30;
+	font-family: Segoe UI,Arial,sans-serif;
+}
+

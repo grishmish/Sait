@@ -1,0 +1,15 @@
+$("#main").css("top",headerHeight+30);
+$("#main").css("left",0.1675*width);
+$("#main").css("width",width*0.665);
+
+$("#main").css("right",0.1675*width);
+
+$("#footer").css("bottom",0);
+
+$("#mainer").css("width",width*0.665);
+
+$("#mainer").css("padding",width*0.005);
+
+
+
+$("#mainer div").css("width",width*0.58);

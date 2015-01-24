@@ -1,0 +1,37 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-color: #ffffff;
+}
+#main{
+	z-index: -1;
+	position:absolute;
+	border-radius: 75px;
+	background-image: url("../images/bacgr2.png");
+}
+
+#header{
+	background-image: url("../images/background.jpg");
+    background-position: center;
+    border-radius: 30;
+
+}
+#main div{
+	font-family: Segoe UI,Arial,sans-serif;
+}
+#main div p{
+	font-size:20;
+}
+a:link, a:visited { 
+    color: blue;
+    text-decoration: none;
+    cursor: auto;
+}
+#footer{
+	color: #fff600;
+	font-size: 13;
+	position:absolute;
+	margin:none;
+	font-family: Segoe UI,Arial,sans-serif;
+}
