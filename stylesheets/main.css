@@ -6,7 +6,6 @@ body {
 }
 #main{
 	
-	background-color: #ffffff;
 	width:68%;
 	height:2400px;
 	position:center;
@@ -15,23 +14,18 @@ body {
 }
 
 #header{
-	width:80%;
-	position:center;
-	text-align: absolute center;
-	font-size: 72px;
-	height:150px;
-	margin:auto;
-	margin-bottom:20px;
+	background-image: url("../images/background.jpg");
+
+    background-position: center;
+    border-radius: 300;
+
 }
 #logo{
 	width:100%;
 	height:auto;
 }
 #menu{
-	width:68%;
-	height:auto;
-	position: fixed center;
-	margin:auto;
+
 }
 iframe{
 	width:90%;
@@ -56,12 +50,14 @@ iframe{
 	z-index: 10;
 	opacity: 0.25;
 }
-#test2{
-	top:-2400px;
+#mainer{
 	width:68%;
 	height:2400px	;
 	position:relative;
-	z-index: 100;
+	z-index: -1;
+	background-image: url("../images/bacgr2.png");
+
+    background-color: #ffffff;
 }
 #intro{
 	width:125%;

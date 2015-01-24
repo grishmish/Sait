@@ -1,4 +1,7 @@
-$( "#menubar" ).buttonset().find("label").css("width","12.4825%");
+var width = $(window).width();
+var height = $(window).height();
+
+$( "#menubar" ).buttonset().find("label").css("width",width*0.0825);
 $("#home").click(function(){
 	window.location = "main.html";
 });
