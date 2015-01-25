@@ -9,6 +9,7 @@ body {
 	position:absolute;
 	border-radius: 75px;
 	background-image: url("../images/bacgr2.png");
+	background-color: white;
 }
 
 #header{
